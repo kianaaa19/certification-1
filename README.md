@@ -1,4 +1,4 @@
-# Get Started with Programming Fundamentals to Become a Software Developer
+# Get Started with Programming Fundamentals to Become a Software Developer Certification on Dicoding
 
 * **Understanding Application Requirements:** Learn the theory and methodology in understanding application requirements from the user side and from the technical specification side of the application. Implement skills into a case study of creating application requirements from the user side and from the technical specification side. Learn work attitude tips when researching, analysing, and evaluating application requirements. 
   
